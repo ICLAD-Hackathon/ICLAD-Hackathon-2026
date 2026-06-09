@@ -2,11 +2,8 @@
 
 This repository is the top-level entry point for the ICLAD-DAC 2026 GenAI Chip
 Hackathon problem repositories. The hackathon asks teams to use generative AI to
-solve chip design tasks across the RTL-to-GDSII flow, including RTL design,
-verification, optimization, and physical design.
+solve chip design tasks including RTL design, optimization, and layout DRC violation fixing..
 
-For event details, registration, schedule, and prize eligibility, see the
-[official ICLAD hackathon page](https://iclad.ai/hackathon).
 
 ## Problem Repositories
 
@@ -77,12 +74,39 @@ repository.
 
 ## Registered Participants
 
-Registered teams will be listed here with the team name and primary member
-affiliation.
-
-| Team name | Primary member affiliation |
-| --- | --- |
-| TBD | TBD |
+| Team ID | Team Name | Affiliation(s) | Track(s) |
+| --- | --- | --- | --- |
+| T01 | Tapeout or Timeout | Southeast University | On-Prem Track; Cloud Track |
+| T02 | RES | Oakland University; Oakland university | On-Prem Track; Cloud Track |
+| T03 | AgentforHDL | Westcliff University/Pennsylvania State University/Ex-Intel | Cloud Track |
+| T04 | DG | NVIDIA | Cloud Track |
+| T05 | Team QTS | Qualitas semiconductor | On-Prem Track |
+| T06 | RES | Oakland University; Oakland university | On-Prem Track; Cloud Track |
+| T07 | Chip Convergence | Microsoft | On-Prem Track; Cloud Track |
+| T08 | Chippyyounglins | Nanyang Technological University | On-Prem Track; Cloud Track |
+| T09 | Lone Core | University of Texas at San Antonio | On-Prem Track; Cloud Track |
+| T10 | Gen-chip | Saad Dahlab blida1 | Cloud Track |
+| T11 | tclball | University of California Berkeley | On-Prem Track; Cloud Track |
+| T12 | Sparx Bullet | KRMU | On-Prem Track; Cloud Track |
+| T13 | Virumaandi | University of Minnesota; Student | On-Prem Track; Cloud Track |
+| T14 | Knight Riders | Synopsys | Cloud Track |
+| T15 | EIRG | University of Nottingham Ningbo China | On-Prem Track; Cloud Track |
+| T16 | Moonshot | UCSC | On-Prem Track; Cloud Track |
+| T17 | Veera | University of Minnesota | On-Prem Track; Cloud Track |
+| T18 | MJ97 | NATIONAL INSTITUTE OF TECHNOLOGY CALICUT | On-Prem Track; Cloud Track |
+| T19 | GenAI VLSI Labs | Caltech (California Institute of Technology) | On-Prem Track; Cloud Track |
+| T20 | meowzer | uc berkeley | On-Prem Track; Cloud Track |
+| T21 | SupreethDesignsSoC | Arizona State University | On-Prem Track |
+| T22 | Vyges | Vyges | On-Prem Track; Cloud Track |
+| T23 | Qualimium | Boston University | On-Prem Track |
+| T24 | Aztech | San Diego State University | On-Prem Track; Cloud Track |
+| T25 | CSRL_member | IISc | Cloud Track |
+| T26 | AzTech | San Diego State University | On-Prem Track; Cloud Track |
+| T27 | Chipster | Institut Teknologi Bandung | On-Prem Track; Cloud Track |
+| T28 | VLSIDAC | University of Michigan | On-Prem Track; Cloud Track |
+| T29 | xcalibur | Synopsys | On-Prem Track; Cloud Track |
+| T30 | BuggHunter | University of California, Santa Cruz | On-Prem Track; Cloud Track |
+| T31 | Kushagra Shukla | RGIPT | On-Prem Track; Cloud Track |
 
 ## Awards
 
