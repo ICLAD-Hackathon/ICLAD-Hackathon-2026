@@ -1,0 +1,9 @@
+[submodule "ICLAD26-NVIDIA-Problems"]
+	path = problem-categories/ICLAD26-NVIDIA-Problems
+	url = ../ICLAD26-NVIDIA-Problems.git
+[submodule "ICLAD26-NXP-Problems"]
+	path = problem-categories/ICLAD26-NXP-Problems
+	url = ../ICLAD26-NXP-Problems.git
+[submodule "ICLAD26-ASU-Problems"]
+	path = problem-categories/ICLAD26-ASU-Problems
+	url = ../ASU-Problems.git
