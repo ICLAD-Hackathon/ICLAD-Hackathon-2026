@@ -31,6 +31,9 @@ git submodule update --init --recursive
 
 ## Tracks
 
+The current architecture is set up for the Cloud Track. On-Prem Track
+infrastructure will be made available soon.
+
 The hackathon has two participation tracks:
 
 | Track | Description |
