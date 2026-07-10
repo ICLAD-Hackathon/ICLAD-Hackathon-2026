@@ -137,7 +137,7 @@ This gives a total of 6 awards.
 
 For questions, contact:
 
-iclad2025-hackathon@googlegroups.com
+iclad2026-hackathon@googlegroups.com
 
 ## Acknowledgements
 
